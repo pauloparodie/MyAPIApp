@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\comp\cursos\apipublish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>10/01/2022 11:13:33</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>10/01/2022 11:13:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>09/30/2022 14:54:07</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>09/30/2022 14:55:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>10/01/2022 10:51:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>10/01/2022 11:22:36</publishTime>
+    </File>
+    <File Include="bin/MyAPIApp.dll">
+      <publishTime>10/01/2022 18:25:29</publishTime>
+    </File>
+    <File Include="bin/MyApp.BusinessContract.dll">
+      <publishTime>10/01/2022 18:25:21</publishTime>
+    </File>
+    <File Include="bin/MyApp.BusinessLayer.dll">
+      <publishTime>10/01/2022 18:25:23</publishTime>
+    </File>
+    <File Include="bin/MyApp.DataLayer.dll">
+      <publishTime>10/01/2022 18:25:22</publishTime>
+    </File>
+    <File Include="bin/MyApp.DomainModel.dll">
+      <publishTime>10/01/2022 18:25:21</publishTime>
+    </File>
+    <File Include="bin/MyApp.IdentityProvider.dll">
+      <publishTime>10/01/2022 18:25:21</publishTime>
+    </File>
+    <File Include="bin/MyApp.RepositoryContract.dll">
+      <publishTime>10/01/2022 18:25:21</publishTime>
+    </File>
+    <File Include="bin/MyApp.RepositoryLayer.dll">
+      <publishTime>10/01/2022 18:25:22</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/01/2022 10:51:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>10/01/2022 10:51:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>10/01/2022 10:51:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>10/01/2022 10:51:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>10/01/2022 10:51:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>10/01/2022 10:51:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>10/01/2022 10:51:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>10/01/2022 10:51:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>10/01/2022 10:51:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>10/01/2022 10:51:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>10/01/2022 10:51:21</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>10/01/2022 10:51:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>10/01/2022 10:51:22</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>10/01/2022 16:19:46</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/01/2022 11:00:32</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>10/01/2022 11:22:39</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>10/01/2022 16:19:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.Crypto.dll">
+      <publishTime>09/30/2022 17:09:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>10/01/2022 16:19:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>10/01/2022 16:19:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>10/01/2022 10:51:17</publishTime>
+    </File>
+    <File Include="bin/Unity.Abstractions.dll">
+      <publishTime>10/01/2022 11:22:42</publishTime>
+    </File>
+    <File Include="bin/Unity.AspNet.WebApi.dll">
+      <publishTime>10/01/2022 11:22:51</publishTime>
+    </File>
+    <File Include="bin/Unity.Container.dll">
+      <publishTime>10/01/2022 11:22:46</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>10/01/2022 11:22:48</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/01/2022 10:51:11</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/01/2022 16:20:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/01/2022 18:25:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
