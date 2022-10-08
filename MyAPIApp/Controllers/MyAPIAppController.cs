@@ -4,7 +4,6 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
-using MyApp.BusinessLayer;
 using MyApp.BusinessContract;
 using MyApp.DomainModel.Entities;
 using System.Threading.Tasks;

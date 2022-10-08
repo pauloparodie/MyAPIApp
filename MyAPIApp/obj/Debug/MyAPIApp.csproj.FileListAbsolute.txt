@@ -35,9 +35,6 @@ D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\Unity.Abstractions.dll
 D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\Unity.AspNet.WebApi.dll
 D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\Unity.Container.dll
 D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\WebActivatorEx.dll
-D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\Microsoft.AspNet.Identity.Core.dll
-D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\System.Web.Helpers.Crypto.dll
 D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\MyApp.DataLayer.dll
 D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\MyApp.BusinessContract.pdb
 D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\MyApp.BusinessLayer.pdb
@@ -59,9 +56,6 @@ D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\Unity.AspNet.WebApi.xml
 D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\Unity.Container.pdb
 D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\Newtonsoft.Json.xml
 D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\System.Web.Http.WebHost.xml
-D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\Microsoft.AspNet.Identity.Core.xml
-D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\System.Web.Helpers.Crypto.pdb
 D:\Projectos\Testes\MyAPIApp\MyAPIApp\bin\MyApp.DataLayer.pdb
 D:\Projectos\Testes\MyAPIApp\MyAPIApp\obj\Debug\MyAPIApp.csprojResolveAssemblyReference.cache
 D:\Projectos\Testes\MyAPIApp\MyAPIApp\obj\Debug\MyAPIApp.dll

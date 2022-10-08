@@ -62,6 +62,30 @@
       <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="MyApp.BusinessContract, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLs\MyApp.BusinessContract.dll</HintPath>
+    </Reference>
+    <Reference Include="MyApp.BusinessLayer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLs\MyApp.BusinessLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="MyApp.DomainModel, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLs\MyApp.DomainModel.dll</HintPath>
+    </Reference>
+    <Reference Include="MyApp.IdentityProvider, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLs\MyApp.IdentityProvider.dll</HintPath>
+    </Reference>
+    <Reference Include="MyApp.RepositoryContract, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLs\MyApp.RepositoryContract.dll</HintPath>
+    </Reference>
+    <Reference Include="MyApp.RepositoryLayer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLs\MyApp.RepositoryLayer.dll</HintPath>
+    </Reference>
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Net.Http.Formatting, Version=5.2.9.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.9\lib\net45\System.Net.Http.Formatting.dll</HintPath>
@@ -156,32 +180,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="DLLs\" />
     <Folder Include="Models\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\MyApp\MyApp.BusinessContract\MyApp.BusinessContract.csproj">
-      <Project>{2c06c8e7-a689-482c-a123-cbb8eb9fec74}</Project>
-      <Name>MyApp.BusinessContract</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\MyApp\MyApp.BusinessLayer\MyApp.BusinessLayer.csproj">
-      <Project>{542f0e31-52dc-498b-9a91-62cba0f94c33}</Project>
-      <Name>MyApp.BusinessLayer</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\MyApp\MyApp.DomainModel\MyApp.DomainModel.csproj">
-      <Project>{a82d140a-8f0d-4c29-9550-4f1f7eba1593}</Project>
-      <Name>MyApp.DomainModel</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\MyApp\MyApp.IdentityProvider\MyApp.IdentityProvider.csproj">
-      <Project>{ce64374f-8682-4d75-854b-31dc8e254aba}</Project>
-      <Name>MyApp.IdentityProvider</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\MyApp\MyApp.RepositoryContract\MyApp.RepositoryContract.csproj">
-      <Project>{f879e038-83e4-4093-814a-2c1e336fbcda}</Project>
-      <Name>MyApp.RepositoryContract</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\MyApp\MyApp.RepositoryLayer\MyApp.RepositoryLayer.csproj">
-      <Project>{826f295a-2957-49a9-819a-24f29959a94a}</Project>
-      <Name>MyApp.RepositoryLayer</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
